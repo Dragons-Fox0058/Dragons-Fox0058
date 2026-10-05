@@ -30,12 +30,6 @@
       <animate attributeName="opacity" values="0;0;0;0;1;1;1;1;1;1;0;0;0;0" dur="5s" repeatCount="indefinite"/>
     </tspan>
 
-    <!-- Line 4: building -->
-    <tspan x="36" dy="22">
-      <tspan fill="#8b949e">building </tspan><tspan fill="#c9d1d9">= </tspan><tspan fill="#a5d6ff">"Terminal-Task-Manager"</tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;1;1;1;1;0;0;0;0;0" dur="5s" repeatCount="indefinite"/>
-    </tspan>
-
     <!-- Line 5: closing -->
     <tspan x="20" dy="22">
       <tspan fill="#c9d1d9">)</tspan>
