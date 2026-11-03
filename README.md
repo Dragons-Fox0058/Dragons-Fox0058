@@ -105,28 +105,27 @@ An AI-powered virtual player project designed for an Aternos server.
 
 ## 📊 GitHub at a glance
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dragons-Fox0058&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragons-Fox0058&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Dragons-Fox0058&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dragons-Fox0058&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-## 🏆 GitHub achievements
+These cards are generated and committed to this repository by **GitHub Actions**. They are served as local files, so the profile does not depend on third-party Vercel image endpoints when it loads.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dragons-Fox0058&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub profile trophies" />
+<img src="./github-metrics.svg" alt="GitHub profile overview and contribution statistics" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics-languages.svg" alt="Most used programming languages" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics-activity.svg" alt="Contribution calendar and coding activity" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics-achievements.svg" alt="GitHub achievements" width="100%" />
 
 </div>
+
+> **Metrics setup:** Add a personal access token as a repository Actions secret named `METRICS_TOKEN`. See the workflow instructions below if the cards have not been generated yet.
 
 ## 🎯 Current interests
 
