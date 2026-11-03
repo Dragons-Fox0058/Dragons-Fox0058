@@ -105,29 +105,15 @@ An AI-powered virtual player project designed for an Aternos server.
 
 ## 📊 GitHub at a glance
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dragons-Fox0058&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragons-Fox0058&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Dragons-Fox0058&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dragons-Fox0058&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-## 🏆 GitHub achievements
+Your profile statistics, language breakdown, contribution calendar, coding activity, and achievements are generated as a **local SVG** by GitHub Actions. This removes the external image-hosting dependency from the profile.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dragons-Fox0058&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub profile trophies" />
+<img src="./github-metrics.svg" alt="GitHub statistics, languages, contribution activity, and achievements" width="100%" />
 
 </div>
 
+**One-time setup:** Create a GitHub personal access token for reading public profile data, then add it to this repository under **Settings → Secrets and variables → Actions** with the name `METRICS_TOKEN`. After adding the secret, open **Actions → Update profile metrics → Run workflow**. The workflow also refreshes the image every day.
 ## 🎯 Current interests
 
 - Building thoughtful Android experiences
