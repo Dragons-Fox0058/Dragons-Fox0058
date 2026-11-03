@@ -105,28 +105,15 @@ An AI-powered virtual player project designed for an Aternos server.
 
 ## 📊 GitHub at a glance
 
-These cards are generated and committed to this repository by **GitHub Actions**. They are served as local files, so the profile does not depend on third-party Vercel image endpoints when it loads.
+Your profile statistics, language breakdown, contribution calendar, coding activity, and achievements are generated as a **local SVG** by GitHub Actions. This removes the external image-hosting dependency from the profile.
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub profile overview and contribution statistics" width="100%" />
-
-<br/><br/>
-
-<img src="./metrics-languages.svg" alt="Most used programming languages" width="100%" />
-
-<br/><br/>
-
-<img src="./metrics-activity.svg" alt="Contribution calendar and coding activity" width="100%" />
-
-<br/><br/>
-
-<img src="./metrics-achievements.svg" alt="GitHub achievements" width="100%" />
+<img src="./github-metrics.svg" alt="GitHub statistics, languages, contribution activity, and achievements" width="100%" />
 
 </div>
 
-> **Metrics setup:** Add a personal access token as a repository Actions secret named `METRICS_TOKEN`. See the workflow instructions below if the cards have not been generated yet.
-
+**One-time setup:** Create a GitHub personal access token for reading public profile data, then add it to this repository under **Settings → Secrets and variables → Actions** with the name `METRICS_TOKEN`. After adding the secret, open **Actions → Update profile metrics → Run workflow**. The workflow also refreshes the image every day.
 ## 🎯 Current interests
 
 - Building thoughtful Android experiences
